@@ -44,4 +44,4 @@ jspm_packages
 test/*.func.*
 
 # Build directory
-dist
+# dist
